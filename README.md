@@ -1,3 +1,34 @@
+# Multimedia Animator Space for Kids
+
+## Build with
+
+### used Technologies and Tools in this Project
+
+- [Visual Studio Code](https://code.visualstudio.com/download) Light Weight
+- Front End Designing Library [Antd](https://ant.design/)
+- Full Stack Application installed using [Babel](https://babeljs.io/) and [webpack](https://webpack.js.org/) config bundle
+- Sass Language for Pre-Processor CSS
+- NodeJS
+- NPM and Yarn
+
+## Extension Require for errors handle in Visual Studio Code
+
+- only for JS,JSX,TS,TSX Language extension files [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+## React Application Extension
+
+- React Code Snippets [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- Api Integrate [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+- Other [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Styled Components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
+
+## React Application Browser Developer Tool
+
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- Chrome Browser Developer Tool
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
